@@ -21,13 +21,17 @@ Passionné par le monde du digital ainsi que la gestion, j’ai décidé de me s
 
 ## 💻 Projets Phares (Portfolio)
 
+### 🔗 [Module ERP : Contrôle de Gestion et Suivi Budgétaire Automatisé](#lien-vers-le-repo)
+*   **Description** : Développement d'un module hautement automatisé intégrant des indicateurs de performance clés (KPI) et des imports d'écritures comptables. Cette application est conçue pour aider les dirigeants d'entreprises, de toutes tailles, à piloter précisément leur gestion et à atteindre leurs objectifs stratégiques.
+*   **Technologies** : Odoo, Python, SQL, Analyse de Données.
+
+### 🔗 [Module Odoo pour Pharmacies : SUBBROFAC](#lien-vers-le-repo)
+*   **Description** : Application développée sur mesure pour optimiser la gestion et le suivi des factures subrogatoires d'assurance dans les pharmacies (Ascoma, Axa, Gras Savoye, OLEA, OGAR, etc.). Le module couvre la facturation, le suivi rigoureux des règlements et des impayés au franc près. Il garantit zéro perte financière pour les pharmaciens et offre une traçabilité multidimensionnelle complète.
+*   **Technologies** : Odoo, Docker, Python.
+
 ### 🔗 [Outil ETL : Synchronisation Sage Paie SQL & Odoo 18](#lien-vers-le-repo)
 *   **Description** : Conception et développement de scripts SQL et d'un outil d'Extraction, Transformation et Chargement (ETL) visant à automatiser la synchronisation des données entre les bases SQL Server de Sage Paie et l'ERP Odoo 18.
 *   **Technologies** : Python, SQL, MS SQL Server, Odoo, Sage 100.
-
-### 🔗 [Module Odoo Personnalisé : Profac](#lien-vers-le-repo)
-*   **Description** : Développement et configuration système d'un module Odoo sur mesure nommé *Profac*, incluant la gestion des environnements conteneurisés via Docker Compose et la gestion des dépendances.
-*   **Technologies** : Odoo, Docker, Python.
 
 ### 🔗 [Dashboard Décisionnel & Contrôle de Gestion (SNI)](#lien-vers-le-repo)
 *   **Description** : Implémentation d'un cadre de contrôle de gestion global, de l'analyse de la performance à la digitalisation des processus[cite: 1]. Conception d'indicateurs de performance (KPI) pour les directions générales, financières et techniques.
