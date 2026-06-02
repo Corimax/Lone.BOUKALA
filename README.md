@@ -1,4 +1,4 @@
-# Lone.BOUKALA - Portofolio
+# Lone BOUKALA - Portofolio
 
 # 👋 Bonjour, je suis Lone Chysli BOUKALA
 ### Business Analyst | Contrôleur de Gestion | Fondateur de Corimax Technologies
